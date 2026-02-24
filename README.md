@@ -1,4 +1,4 @@
-📦 Velocity-Mart
+ **Velocity-Mart**
 
 Velocity-Mart is a Warehouse Slotting Optimization Web Application built using Python and Streamlit.
 It analyzes warehouse order data, SKU master data, and picker movement to generate an optimized slotting plan for improved operational efficiency.
@@ -6,7 +6,7 @@ It analyzes warehouse order data, SKU master data, and picker movement to genera
 🔗 Live App:
 https://velocitymartapp.streamlit.app/
 
-🚀 Project Overview
+**Project Overview**
 
 Velocity-Mart helps in:
 
